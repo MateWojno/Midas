@@ -34,7 +34,7 @@
 <th> 0</th>
 </tr><tr> 
 <th> Lukasz Fryzjer</th>
-<th> 100</th>
+<th> 150</th>
 <th> 0</th>
 </tr><tr> 
 <th> Piotr Krasko</th>
