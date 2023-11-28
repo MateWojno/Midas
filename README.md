@@ -47,7 +47,7 @@
 </tr><tr> 
 <th> Adrian Pogoda</th>
 <th> 0</th>
-<th> 0</th>
+<th> 0</th> 
 </tr><tr> 
 <th> Mirek Tiger</th>
 <th> 0</th>
