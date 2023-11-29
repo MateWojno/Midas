@@ -62,7 +62,7 @@
 <th> 0</th>
 </tr><tr> 
 <th> Dolar $$</th>
-<th> 0</th>
+<th> 3 szlugi</th>
 <th> 0</th>
 </tr>
 <tr> 
@@ -72,7 +72,7 @@
 </tr>
 <tr> 
 <th> Motylek Kosa </th>
-<th> 200</th>
 <th> 0</th>
+<th> 200</th>
 </tr>
 </table>
