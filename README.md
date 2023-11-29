@@ -10,7 +10,7 @@
 </tr>
 <tr> 
 <th>Maliniak</th>
-<th>0</th>
+<th>150</th>
 <th>0</th>
 </tr><tr> 
 <th> Samuel</th>
@@ -42,7 +42,7 @@
 <th> 0</th>
 </tr><tr> 
 <th> Bartek Borsuk</th>
-<th> 95</th>
+<th> 0</th>
 <th> 0</th>
 </tr><tr> 
 <th> Adrian Pogoda</th>
