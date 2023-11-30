@@ -18,7 +18,7 @@
 <th> 0</th>
 </tr><tr> 
 <th> Leszek Rudnik</th>
-<th> 20</th>
+<th> 0</th>
 <th> 0</th>
 </tr><tr> 
 <th> Krystian Lysy</th>
