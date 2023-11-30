@@ -73,6 +73,6 @@
 <tr> 
 <th> Motylek Kosa </th>
 <th> 0</th>
-<th> 200</th>
+<th> 0</th>
 </tr>
 </table>
