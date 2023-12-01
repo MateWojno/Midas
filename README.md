@@ -11,7 +11,7 @@ https://github.com/MateWojno/Midas
 </tr>
 <tr> 
 <th>Maliniak</th>
-<th>200</th>
+<th>180</th>
 <th>0</th>
 </tr><tr> 
 <th> Samuel</th>
@@ -52,7 +52,7 @@ https://github.com/MateWojno/Midas
 </tr><tr> 
 <th> Mirek Tiger</th>
 <th> 0</th>
-<th> 100 i 10 szt.</th>
+<th> 80 i 10 szt.</th>
 </tr><tr> 
 <th> Tomek Czarny</th>
 <th> 0</th>
