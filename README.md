@@ -15,7 +15,7 @@ https://github.com/MateWojno/Midas
 <th>0</th>
 </tr><tr> 
 <th> Samuel</th>
-<th> 100</th>
+<th> 100 --da telefon Malinie, Malina odda 100 mi--</th>
 <th> 0</th>
 </tr><tr> 
 <th> Leszek Rudnik</th>
