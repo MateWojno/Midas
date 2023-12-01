@@ -52,11 +52,11 @@ https://github.com/MateWojno/Midas
 </tr><tr> 
 <th> Mirek Tiger</th>
 <th> 0</th>
-<th> 80 i 10 szt.</th>
+<th> 30 i 10 szt.</th>
 </tr><tr> 
 <th> Tomek Czarny</th>
 <th> 0</th>
-<th> 0</th>
+<th> 10 szt - 5zl/1</th>
 </tr><tr> 
 <th> Przemek Malarz</th>
 <th> 0</th>
