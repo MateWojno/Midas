@@ -15,7 +15,7 @@ https://github.com/MateWojno/Midas
 <th>0</th>
 </tr><tr> 
 <th> Samuel</th>
-<th> 100 --da telefon Malinie, Malina odda 100 mi--</th>
+<th> 100 --da telefon Malinie,<br> Malina odda 100 mi--</th>
 <th> 0</th>
 </tr><tr> 
 <th> Leszek Rudnik</th>
@@ -43,7 +43,7 @@ https://github.com/MateWojno/Midas
 <th> 0</th>
 </tr><tr> 
 <th> Bartek Borsuk</th>
-<th> 0</th>
+<th> 10</th>
 <th> 0</th>
 </tr><tr> 
 <th> Adrian Pogoda</th>
@@ -74,6 +74,6 @@ https://github.com/MateWojno/Midas
 <tr> 
 <th> Motylek Kosa </th>
 <th> 0</th>
-<th> 100</th>
+<th> 1 paczka</th>
 </tr>
 </table>
