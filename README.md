@@ -10,7 +10,7 @@
 </tr>
 <tr> 
 <th>Maliniak</th>
-<th>150</th>
+<th>120</th>
 <th>0</th>
 </tr><tr> 
 <th> Samuel</th>
