@@ -10,7 +10,7 @@
 </tr>
 <tr> 
 <th>Maliniak</th>
-<th>120</th>
+<th>200</th>
 <th>0</th>
 </tr><tr> 
 <th> Samuel</th>
@@ -51,7 +51,7 @@
 </tr><tr> 
 <th> Mirek Tiger</th>
 <th> 0</th>
-<th> 0</th>
+<th> 100 i 10 szt.</th>
 </tr><tr> 
 <th> Tomek Czarny</th>
 <th> 0</th>
