@@ -24,7 +24,7 @@ https://github.com/MateWojno/Midas
 </tr><tr> 
 <th> Krystian Lysy</th>
 <th> 0</th>
-<th> 2</th>
+<th> 0</th>
 </tr><tr> 
 <th> Jastrzab</th>
 <th> 75</th>
@@ -52,11 +52,11 @@ https://github.com/MateWojno/Midas
 </tr><tr> 
 <th> Mirek Tiger</th>
 <th> 0</th>
-<th> 30 i 10 szt.</th>
+<th> 0</th>
 </tr><tr> 
 <th> Tomek Czarny</th>
 <th> 0</th>
-<th> 10 szt - 5zl/1</th>
+<th> 0</th>
 </tr><tr> 
 <th> Przemek Malarz</th>
 <th> 0</th>
@@ -74,6 +74,6 @@ https://github.com/MateWojno/Midas
 <tr> 
 <th> Motylek Kosa </th>
 <th> 0</th>
-<th> 0</th>
+<th> 100</th>
 </tr>
 </table>
