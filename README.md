@@ -43,7 +43,7 @@ https://github.com/MateWojno/Midas
 <th> 0</th>
 </tr><tr> 
 <th> Bartek Borsuk</th>
-<th> 10</th>
+<th> 20</th>
 <th> 0</th>
 </tr><tr> 
 <th> Adrian Pogoda</th>
