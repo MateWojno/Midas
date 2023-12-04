@@ -11,7 +11,7 @@ https://github.com/MateWojno/Midas
 </tr>
 <tr> 
 <th>Maliniak</th>
-<th>173</th>
+<th>170</th>
 <th>0</th>
 </tr><tr> 
 <th> Samuel</th>
